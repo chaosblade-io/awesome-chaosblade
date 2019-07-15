@@ -9,6 +9,7 @@ Awesome materials for ChaosBlade（ChaosBlade 相关资料）
 * 分布式服务架构下混沌工程实践-阿里巴巴-肖长军（GIAC.2019.Shenzhen）:[PPT](https://github.com/chaosblade-io/awesome-chaosblade/blob/master/slides/2019-GIAC-%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E4%B8%8B%E6%B7%B7%E6%B2%8C%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5-%E8%82%96%E9%95%BF%E5%86%9B.pdf)
 
 ## Enterprise practice
+* 一篇文章让你了解chaosblade: [PDF](https://github.com/chaosblade-io/awesome-chaosblade/blob/master/articles/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E8%AE%A9%E4%BD%A0%E4%BA%86%E8%A7%A3chaosblade-niaoshuai.pdf), 作者：[niaoshuai](https://github.com/niaoshuai)
 * 特来电-特来电混沌工程实践: [文章](https://www.cnblogs.com/tianqing/p/10499611.html)
 * 特来电-特来电混沌工程实践-混沌事件注入: [文章](https://www.cnblogs.com/tianqing/p/10628751.html)
 * 酷家乐-混沌工程在创业公司中的实践: [文章](https://mp.weixin.qq.com/s/CG6Ig3BIyzKSRO1a5n5Ilg)
