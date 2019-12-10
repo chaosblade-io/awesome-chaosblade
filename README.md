@@ -5,6 +5,7 @@ Awesome materials for ChaosBlade（ChaosBlade 相关资料）
 * [中文使用文档](https://chaosblade-io.gitbook.io/chaosblade-help-zh-cn/)
 
 ## 文章
+* 混沌工程介绍与实践：[文章](articles/混沌工程介绍与实践.md)
 * InfoQ 混沌工程的力量：阿里周洋亲述这一技术背后那些事儿: [文章](https://www.infoq.cn/article/fQDVS*rh6NWbFcMzk12F)
 * ChaosBlade：云原生架构下的混沌工程探索和实践：[文章](https://mp.weixin.qq.com/s/Ym7NhhvyUyat4e_uvc8q2w)
 * 面向云原生的混沌工程工具 - ChaosBlade[文章](https://mp.weixin.qq.com/s/sdAcqwqf2bFki4QbvOHuUg)
