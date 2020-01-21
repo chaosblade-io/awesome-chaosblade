@@ -26,6 +26,7 @@ Awesome materials for ChaosBlade（ChaosBlade 相关资料）
 * 特来电-特来电混沌工程实践: [文章](https://www.cnblogs.com/tianqing/p/10499611.html)
 * 特来电-特来电混沌工程实践-混沌事件注入: [文章](https://www.cnblogs.com/tianqing/p/10628751.html)
 * 酷家乐-混沌工程在创业公司中的实践: [文章](https://mp.weixin.qq.com/s/CG6Ig3BIyzKSRO1a5n5Ilg)
+* 杭银消费金融-ChaosBlade--动态脚本实现 Java 进阶：[文章](https://www.cnblogs.com/emars/p/12221887.html)
 
 ## Wiki
 * [chaosblade 文档](https://github.com/chaosblade-io/chaosblade/wiki)
