@@ -13,6 +13,7 @@ Awesome materials for ChaosBlade（ChaosBlade 相关资料）
 * 一文理解分布式服务架构下的混沌工程实践[文章](https://mp.weixin.qq.com/s/j00qD2_FBPb_ZqCu76fqZg)
 * 郭旭东-ChaosBlade：从零开始的混沌工程（[一](https://xie.infoq.cn/article/a2a70caf74fe3c314020f178d)）（[二](https://xie.infoq.cn/article/30b66541344905a1f9bac079d)）（[三](https://xie.infoq.cn/article/053151fbbc830d3baa53d33e4)）（[四](https://xie.infoq.cn/article/9f8601e2092242a638813fb29)）（[五](https://xie.infoq.cn/article/ae2e7258a442df625a7787b7f)）
 * 超全总结 | 阿里电商故障治理和故障演练实践：[文章](http://aliyundian.com/post/189.html)
+* 满帮稳定性保障技术体系实践: [文章](https://mp.weixin.qq.com/s/Va64_U7mB4Hz8QRGxweKkg)
 
 ## 视频&PDF
 * 混沌工程落地与实践-肖长军 (TOP100.Beijing): [PDF](slides/混沌工程落地与实践-肖长军-TOP100.pdf)
