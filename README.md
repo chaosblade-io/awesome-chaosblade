@@ -33,6 +33,7 @@ Awesome materials for ChaosBlade（ChaosBlade 相关资料）
 * 转转-异常测试平台搭建方案: [文章](https://mp.weixin.qq.com/s/ma7htEFwTONh4NU9XQ4uCg)
 * 164次练习「失败」: [文章](https://mp.weixin.qq.com/s/J-HMh_qeqk6md-l39J6gjg)
 * “突袭”阿里: [文章](https://mp.weixin.qq.com/s/Z5wlQ6ac3XZAW_45Rzydew)
+* 去哪儿网基于ChaosBlade的混沌工程实践：[文章](https://mp.weixin.qq.com/s/b8bTRosBjQ1rtW_oX954Ng)
 
 ## Wiki
 * [chaosblade 文档](https://github.com/chaosblade-io/chaosblade/wiki)
