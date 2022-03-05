@@ -26,6 +26,7 @@ Awesome materials for ChaosBlade（ChaosBlade 相关资料）
 * 通过混沌工程构建高可用的分布式服务-肖长军（DTED.20190720.Shenzhen）: [PDF](https://github.com/chaosblade-io/awesome-chaosblade/blob/master/slides/%E9%80%9A%E8%BF%87%E6%B7%B7%E6%B2%8C%E5%B7%A5%E7%A8%8B%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E7%94%A8%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1-%E8%82%96%E9%95%BF%E5%86%9B.pdf)
 * 混沌工程的过去、现在和未来（20210331）: [视频]( https://www.bilibili.com/video/BV1yi4y1P7E9?spm_id_from=333.999.0.0)
 * 可信云大会-混沌工程，企业云原生的指南针（20210726）: [视频]( https://www.bilibili.com/video/BV1Fv411J7aw?spm_id_from=333.999.0.0)
+* 2021-信通院-混沌工程技术沙龙-金融行业专场.pdf（202112）:[PDF](slides/2021-信通院-混沌工程技术沙龙-金融行业专场.pdf)
 
 ## 企业实践
 * 一篇文章让你了解chaosblade: [PDF](https://github.com/chaosblade-io/awesome-chaosblade/blob/master/articles/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E8%AE%A9%E4%BD%A0%E4%BA%86%E8%A7%A3chaosblade-niaoshuai.pdf), 作者：[niaoshuai](https://github.com/niaoshuai)
