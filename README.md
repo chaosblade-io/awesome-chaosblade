@@ -15,7 +15,7 @@ Awesome materials for ChaosBlade（ChaosBlade 相关资料）
 * 超全总结 | 阿里电商故障治理和故障演练实践：[文章](http://aliyundian.com/post/189.html)
 * 满帮稳定性保障技术体系实践: [文章](https://mp.weixin.qq.com/s/Va64_U7mB4Hz8QRGxweKkg)
 * 被你质疑价值的混沌工程，阿里巴巴已落地实践了9年: [文章](https://mp.weixin.qq.com/s/jHopgbHmWCuF0JHv7Z7Erg)
-* 六年打磨！阿里开源混沌工程工具 ChaosBlade: [文章](https://mp.weixin.qq.com/s/jHopgbHmWCuF0JHv7Z7Erg)(https://mp.weixin.qq.com/s/QLlCeYq_j0EwVzEMHHTwPg)
+* 六年打磨！阿里开源混沌工程工具 ChaosBlade: [文章](https://mp.weixin.qq.com/s/QLlCeYq_j0EwVzEMHHTwPg)
 
 ## 视频&PDF
 * 混沌工程落地与实践-肖长军 (TOP100.Beijing): [PDF](slides/混沌工程落地与实践-肖长军-TOP100.pdf)
