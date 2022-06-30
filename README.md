@@ -5,6 +5,7 @@ Awesome materials for ChaosBlade（ChaosBlade 相关资料）
 * [中文使用文档](https://chaosblade-io.gitbook.io/chaosblade-help-zh-cn/)
 
 ## 文章
+### 国内
 * ChaosBlade MySQL等场景介绍：[简书文章](https://juejin.im/post/5d1cab7ef265da1ba77cc018)
 * 混沌工程介绍与实践：[文章](articles/混沌工程介绍与实践.md)
 * InfoQ 混沌工程的力量：阿里周洋亲述这一技术背后那些事儿: [文章](https://www.infoq.cn/article/fQDVS*rh6NWbFcMzk12F)
@@ -16,6 +17,10 @@ Awesome materials for ChaosBlade（ChaosBlade 相关资料）
 * 满帮稳定性保障技术体系实践: [文章](https://mp.weixin.qq.com/s/Va64_U7mB4Hz8QRGxweKkg)
 * 被你质疑价值的混沌工程，阿里巴巴已落地实践了9年: [文章](https://mp.weixin.qq.com/s/jHopgbHmWCuF0JHv7Z7Erg)
 * 六年打磨！阿里开源混沌工程工具 ChaosBlade: [文章](https://mp.weixin.qq.com/s/QLlCeYq_j0EwVzEMHHTwPg)
+* 混沌工程平台 ChaosBlade-Box 新版重磅发布：[文章](https://mp.weixin.qq.com/s/r5KtsG1Qaw0hfz0u0VqfdQ)
+
+### 国际
+* ChaosBlade-Box, a New Version of the Chaos Engineering Platform Has Released： [文章](https://www.alibabacloud.com/blog/chaosblade-box-a-new-version-of-the-chaos-engineering-platform-has-released_599069)
 
 ## 视频&PDF
 * 混沌工程落地与实践-肖长军 (TOP100.Beijing): [PDF](slides/混沌工程落地与实践-肖长军-TOP100.pdf)
