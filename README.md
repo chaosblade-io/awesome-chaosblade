@@ -18,6 +18,7 @@ Awesome materials for ChaosBlade（ChaosBlade 相关资料）
 * 被你质疑价值的混沌工程，阿里巴巴已落地实践了9年: [文章](https://mp.weixin.qq.com/s/jHopgbHmWCuF0JHv7Z7Erg)
 * 六年打磨！阿里开源混沌工程工具 ChaosBlade: [文章](https://mp.weixin.qq.com/s/QLlCeYq_j0EwVzEMHHTwPg)
 * 混沌工程平台 ChaosBlade-Box 新版重磅发布：[文章](https://mp.weixin.qq.com/s/r5KtsG1Qaw0hfz0u0VqfdQ)
+* ChaosBlade Java 场景性能优化，那些你不知道的事：[文章](https://mp.weixin.qq.com/s/11DhVzwYGGcyXRai7tucNQ)
 
 ### 国际
 * ChaosBlade-Box, a New Version of the Chaos Engineering Platform Has Released： [文章](https://www.alibabacloud.com/blog/chaosblade-box-a-new-version-of-the-chaos-engineering-platform-has-released_599069)
